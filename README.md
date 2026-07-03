@@ -271,6 +271,9 @@ streamlit run streamlit_app.py
 # 👨‍💻 Author
 
 **Raghav Sharma**
+**Puneet Singh**
+**Saksham Pandey**
+**Prakash Kumar**
 
 BCA Student | AI & Software Development Enthusiast
 
